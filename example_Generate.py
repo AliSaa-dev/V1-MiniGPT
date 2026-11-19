@@ -1,5 +1,6 @@
 import torch
-from Model import tokenizer, V1_Base as model
+from v1.Model import tokenizer, V1_Base as model
+
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 

@@ -1,4 +1,4 @@
-from Model import V1_Base, tokenizer
+from v1.Model import V1_Base, tokenizer
 from datetime import datetime
 from torch import optim, nn
 import torch

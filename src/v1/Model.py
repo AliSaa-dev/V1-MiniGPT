@@ -30,6 +30,6 @@ class LanguageModel(nn.Module):
 
 # Example Model V1
 from Tokenizer import Tokenizer
-tokenizer = Tokenizer("example_data/encoder.json", "example_data/vocab.bpe")
+tokenizer = Tokenizer("../../example_data/encoder.json", "example_data/vocab.bpe")
 
 V1_Base = LanguageModel(tokenizer.vocab_size, 1024, 16, 4096, 24)

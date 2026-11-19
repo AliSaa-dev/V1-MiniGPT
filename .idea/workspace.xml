@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a5592e6-d3f4-4afc-8995-c8c875958361" name="Changes" comment="" />
+    <list default="true" id="7a5592e6-d3f4-4afc-8995-c8c875958361" name="Changes" comment="V1-MiniGPT">
+      <change afterPath="$PROJECT_DIR$/src/v1/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1/Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1/Tokenizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Transformers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/v1/Transformers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_Generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/example_Generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example_Training.py" beforeDir="false" afterPath="$PROJECT_DIR$/example_Training.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +53,10 @@
       <recent name="F:\Coding Projects\V1-MiniGPT\.venv\Lib\site-packages" />
       <recent name="F:\Coding Projects\V1-MiniGPT\.venv\Lib" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Coding Projects\V1-MiniGPT" />
+      <recent name="F:\Coding Projects\V1-MiniGPT\src\v1" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -65,10 +77,24 @@
       <workItem from="1790101335914" duration="7600000" />
       <workItem from="1790141932917" duration="266000" />
       <workItem from="1790159142322" duration="13412000" />
+      <workItem from="1795097827777" duration="1252000" />
     </task>
+    <task id="LOCAL-00001" summary="V1-MiniGPT">
+      <option name="closed" value="true" />
+      <created>1790183154930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790183154930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V1-MiniGPT" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1-MiniGPT" />
   </component>
 </project>
